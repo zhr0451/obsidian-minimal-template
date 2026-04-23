@@ -184,12 +184,12 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false
+      "switcher:Open quick switcher": false
     }
   },
   "active": "e4d0ed5a50faad14",
   "lastOpenFiles": [
+    "руддщ.md",
     "assets",
     "Добро пожаловать.md"
   ]
